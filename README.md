@@ -1,6 +1,9 @@
 # Image Denoising using Convolutional Neural Networks
 This repository is the final project for COMP 576: Introduction to Deep Learning, Rice University. Our topic is image denoising using Convolutional Neural Networks. The repository includes: proposal, poster, final report and codes.
 
+## Instructor
+Dr. Ankit Patel, abp4@rice.edu
+
 ## Collaborators
 
 - Iris Wu, yw110@rice.edu
